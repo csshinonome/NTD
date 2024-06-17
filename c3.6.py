@@ -329,8 +329,8 @@ class Model(nn.Module):
         return conv1, conv2, conv3
 
 
-net_hr_msi = Model(3, 256, 256, rank=8000).to(device)
-net_lr_hsi = Model(31, 64, 64, rank=8000).to(device)
+net_hr_msi = Model(3, 256, 256, rank=8192).to(device)
+net_lr_hsi = Model(31, 64, 64, rank=8192).to(device)
 option = torch.optim.Adam(list(net_hr_msi.parameters()) + list(net_lr_hsi.parameters()), lr=0.0001)
 writer = SummaryWriter(log_dir='./runs/harvard')
 
