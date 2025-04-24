@@ -1,4 +1,4 @@
-This is a demo code for 'Hyperspectral and Multispectral Image Fusion via Neural Tensor Decomposition'. The code is for research purpose only. All rights reserved. 
+This is a demo code for 'Hyperspectral and Multispectral Image Fusion via Neural Tensor Decomposition.' The code is for research purpose only. All rights reserved. 
 
 Contact information 
 Huidong Jiang: huidong.jiang.cs@gmail.com
