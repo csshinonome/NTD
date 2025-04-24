@@ -11,7 +11,7 @@ pytorch 1.12.1
 
 scipy 1.15.2
 
-numpy 1.26.4co
+numpy 1.26.4
 
 
 To run the code, please run 'ntd.py' in PyTorch. 
