@@ -6,8 +6,11 @@ Huidong Jiang: huidong.jiang.cs@gmail.com
 Requirements: 
 
 python 3.11.0
+
 pytorch 1.12.1
+
 scipy 1.15.2
+
 numpy 1.26.4co
 
 
